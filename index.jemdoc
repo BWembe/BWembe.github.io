@@ -1,12 +1,12 @@
 # jemdoc: menu{MENU}{index.html}
 
-= jemdoc -- example page
+= Boris Wembe
 
-[https://jemnz.com/ Jacob Mattingley] ([www@jemnz.com])
+[https://jemnz.com/ Boris Wembe] ([boris.wembe@irit.fr])
 
 If the first line of the file starts with +\# jemdoc+, special functions like [menu.html menus] will be used. 
 
-== Example
+== News
 Here are some *text* /features/. I could [http://cvxmod.net/ link somewhere] or insert a raw link to another page like [download.html]. I could use +monospace+, too.
 
 I could write special characters like \#, \$ and \+ by just using a backslash (\\) in front of those characters. Or automatically detect an [www@jemnz.com email address]. 
@@ -19,7 +19,7 @@ Save the file as +index.jemdoc+, say, and simply call +jemdoc index+ (after [dow
 
 Bonjour
 
-== Next bit, next heading level two
+== Publications
 === Getting into level three now
 
 Why not use a list
@@ -35,7 +35,7 @@ Or perhaps a
 : {Definition} lists, especially when there are many definitions
 : {Can be useful} for explaining things 
 
-== Finally, a few more blocks
+== Teaching
 This `section' features "smart quotes".
 
 ~~~
