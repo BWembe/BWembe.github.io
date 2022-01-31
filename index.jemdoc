@@ -8,7 +8,7 @@
 
 == About
 
-After a first study in pure mathematics at the University of Yaoundé I, followed by a master II in Analysis option Partial Differential Equations (PDEs) dfended on November 2017, B. Wembe joined in 2018 the APO team (Parallel Algorithms and Optimization) at IRIT laboratory, Toulouse, France. He did a first post-master internship followed by a Ph.D. thesis in geometric optimal control defended on November 2021. This diversity of themes during his career offers him a solid background in fundamental mathematics (functional analysis, PDEs, optimization, dynamical systems, differential and Riemannian geometry, etc.) as well as in numerical analysis (direct and indirect methods in optimal control, finite differences, finite elements, etc.).
+After a first study in fondamental mathematics at the University of Yaoundé I, followed by a master II in Analysis option Partial Differential Equations (PDEs) defended on November 2017, B. Wembe joined in 2018 the APO team (Parallel Algorithms and Optimization) at IRIT laboratory, Toulouse, France. He did a first post-master internship followed by a Ph.D. thesis in geometric optimal control defended on November 2021. This diversity of themes during his career offers him a solid background in fundamental mathematics (functional analysis, PDEs, optimization, dynamical systems, differential and Riemannian geometry, etc.) as well as in numerical analysis (direct and indirect methods in optimal control, finite differences, finite elements, etc.).
 
 == News
 # Here are some *text* /features/. I could [http://cvxmod.net/ link somewhere] or insert a raw link to another page like [download.html]. I could use +monospace+, too.
@@ -36,6 +36,8 @@ After a first study in pure mathematics at the University of Yaoundé I, followe
 # : {Can be useful} for explaining things 
 
 
+== 2021
+
 1. Zermelo Navigation Problems on Surfaces of Revolution and Geometric Optimal Control. In preparation, hal-
 03209491 (2021) (with B. Bonnard and O. Cots).
 
@@ -45,8 +47,10 @@ Two Case Studies. In preparation, hal-03310348 (2021) (with B. Bonnard and J. Ro
 
 
 3. Abnormal Geodesics in 2D-Zermelo Navigation Problems in the Case of Revolution and the Fan Shape of the
-Small Time Balls. Submitted and revised at System Control & Letters (with B. Bonnard, O. Cots and J. Gergaud).
+Small Time Balls. To appear at System Control & Letters (with B. Bonnard, O. Cots and J. Gergaud).
 
+
+== 2020
 
 4. Minimum Energy Control of Passive Tracers Advection in Point Vortices Flow. CONTROLO 2020. Lecture
 Notes in Electrical Engineering, Vol 695. Springer (with C. Balsa, O. Cots and J. Gergaud).
@@ -56,6 +60,8 @@ Notes in Electrical Engineering, Vol 695. Springer (with C. Balsa, O. Cots and J
 ceedings and Surveys, Vol 71 (2021) (with O. Cots and J. Gergaud).
 
 
+== 2019
+
 6. A Zermelo navigation problem with a vortex singularity. ESAIM: COCV, Vol 27 (2021) no 10, pp: 1-37 (with
 B. Bonnard and O. Cots).
 
@@ -64,17 +70,24 @@ B. Bonnard and O. Cots).
 
 == Teaching
 
-== Teaching assistant at Toulouse Institute of Technology, Toulouse, France                Oct 2018 - Today
+== Actually Teaching                                                                       Oct 2021 - Today
 
-During my thesis, I completed a 3x64h teaching charge (courses, tutorials and practical works) for engineering students
-and since 12/01/2021 I am a teaching assistant in the same institution. I am mainly in charge of the courses:
+Actually, I am a teaching assistant in Toulouse Institut of Technology (INP-ENSEEIHT). I am mainly in charge of the courses:
 - Mathematical refresher course ”in linear algebra and analysis” - Scientific calculus and Data analysis - Measure and
 Integration - etc. I also supervising tutorial and practical works (using Matlab, Python, Julia, Fortran, etc) of: - Optimal
 Control - Automatic - Numerical Analysis - PDEs (finite element methods) - Optimization - etc.
 
+== Teaching during my thesis                                                               Oct 2018 - Sep 2021
 
-== Supervisor of tutorial works at University of Yaounde I, Cameroon                        Jan 2017 - Jan 2018
-I tutoring for a year of: Analysis - Algebra - Topology - Measure and Integration courses for undergraduate students.
+During my thesis, I completed a 3x64h teaching charge (courses, tutorials and practical works) for engineering students
+I was mainly in charge of the courses: - Mathematical refresher course ”in linear algebra and analysis”. 
+I have also supervised tutorial and practical works (using Matlab, Python, Julia, Fortran, etc) of: - Optimal
+Control - Automatic - Numerical Analysis - PDEs (finite element methods) - Optimization - etc.
+
+
+== Teaching during my master                                                               Jan 2017 - Jan 2018
+I managed during my second master year tutorial works at university of Yaounde I, Cameroon                          
+I tutoring: Analysis - Algebra - Topology - Measure and Integration courses for undergraduate students.
 
 
 
