@@ -1,19 +1,32 @@
 # jemdoc: menu{MENU}{teaching.html}
 
-~~~
-== Teaching assistant at Toulouse Institute of Technology, Toulouse, France  Oct 2018 - Today
+== Teaching
 
-During my thesis, I completed a 3x64h teaching charge (courses, tutorials and practical works) for engineering students
-and since 12/01/2021 I am a teaching assistant in the same institution. I am mainly in charge of the courses:
-- Mathematical refresher course ”in linear algebra and analysis” - Scientific calculus and Data analysis - Measure and
-Integration - etc. I also supervising tutorial and practical works (using Matlab, Python, Julia, Fortran, etc) of: - Optimal
+~~~
+== Actually                                                                      
+
+Actually, I am a teaching assistant in Toulouse Institut of Technology (INP-ENSEEIHT). 
+I am mainly in charge of the courses: - Mathematical refresher course ”linear algebra and analysis” 
+- Scientific calculus and Data analysis - Measure and Integration - etc. I also supervising tutorial and 
+practical works (using Matlab, Python, Julia, Fortran, etc) of: - Optimal Control - Automatic - Numerical 
+Analysis - PDEs (finite element methods) - Optimization - Graph theory -  etc.
+
+~~~
+
+~~~
+== During my thesis                                                               
+
+During my thesis, I completed 3x64h teaching charge (courses, tutorials and practical works) for engineering students
+I was mainly in charge of the courses: - Mathematical refresher course ”in linear algebra and analysis”. 
+I have also supervised tutorial and practical works (using Matlab, Python, Julia, Fortran, etc) of: - Optimal
 Control - Automatic - Numerical Analysis - PDEs (finite element methods) - Optimization - etc.
 
 ~~~
 
 ~~~
-== Supervisor of tutorial works at University of Yaounde I, Cameroon
-Jan 2017 - Jan 2018
-I tutoring for a year of: Analysis - Algebra - Topology - Measure and Integration courses for undergraduate students.
+== During my master                                                              
+I supervised during my master tutorial works at university of Yaounde I, Cameroon                          
+I tutoring: Analysis - Algebra - Topology - Measure and Integration. Its was courses for undergraduate students.
 
 ~~~
+
